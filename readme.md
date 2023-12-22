@@ -38,3 +38,8 @@ Keep the created website id.
 #### Run
 
 - `node index.js` and follow instructions
+
+
+## Known issues
+
+Node process keeps running. I maybe forgot to remove some handler or the postgres connection is still running.
