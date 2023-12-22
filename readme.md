@@ -13,7 +13,8 @@ So, if you need to migrate from **Umami Cloud** to an **On-Premise** version, he
 ## Usage
 
 #### Install
-- `git pull `
+- `git pull git@github.com:zouloux/umami-import-csv.git`
+- `cd umami-import-csv`
 - `npm i`
 
 #### Export your CSV
