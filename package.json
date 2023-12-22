@@ -1,0 +1,14 @@
+{
+  "name": "umami-import-csv",
+  "version": "1.0.0",
+  "description": "Import CSV from Umami Cloud into any custom Umami instance.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Alexis Bouhet ( ZoulouX )",
+  "license": "MIT",
+  "dependencies": {
+    "@types/pg": "^8.10.9",
+    "pg": "^8.11.3"
+  }
+}
